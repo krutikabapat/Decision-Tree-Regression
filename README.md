@@ -13,6 +13,6 @@ The following should be installed.
 3.Matplotlib
 4.sklearn
 
-The exact splitting of the dataset is attached in the file(splitting.py).
+The exact splitting of the dataset is attached in the file(splitting.png).
 Position_salaries.csv is the datafile containing the data of employees of a company.
 The above model predicts the salaries of employees having a certain position in the company.
