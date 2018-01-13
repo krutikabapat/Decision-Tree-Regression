@@ -13,4 +13,4 @@ The following should be installed.
 3.Matplotlib
 4.sklearn
 
-The exact splitting of the dataset is attached in the file.
+The exact splitting of the dataset is attached in the file(splitting.py).
