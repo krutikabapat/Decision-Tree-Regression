@@ -16,3 +16,5 @@ The following should be installed.
 The exact splitting of the dataset is attached in the file(splitting.png).
 Position_salaries.csv is the datafile containing the data of employees of a company.
 The above model predicts the salaries of employees having a certain position in the company.
+
+Run the .ipynb file in jupyter notebook to see the results of the model.
